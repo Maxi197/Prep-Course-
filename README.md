@@ -1,2 +1,1 @@
-# Prep-Course-
-repositorio de prueba del modulo 2 de henry
+prueba de como crear una copia de un repositorio desde github a mi escritorio
